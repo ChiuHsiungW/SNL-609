@@ -22,7 +22,7 @@ Change directory to the generated cmake build folder which contains the `.axf` f
 ```bash
 cd <SNL-609>
 <path_to_FVP>/FVP_Corstone_SSE-300/models/Linux64_GCC-9.3/FVP_Corstone_SSE-300_Ethos-U65 -a ./SNL-609/ethos-u65-img_class.axf -C ethosu.num_macs=512
-
+```
 
 ![FVP Architecture](./SNL609_mobilenetv2_FVP_SSE-300.png)
 
