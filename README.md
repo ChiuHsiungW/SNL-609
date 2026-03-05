@@ -17,7 +17,7 @@ To launch the simulation, follow these steps to pass the `.axf` file to the FVP:
 ### Option 1: From the Build Directory
 Change directory to the generated cmake build folder which contains the `.axf` file output in the `bin` subdirectory:
 
-!(SNL609_mobilenetv2_FVP_SSE-300.png)
+![FVP Architecture](./SNL609_mobilenetv2_FVP_SSE-300.png)
 
 ```bash
 cd <SNL-609>
